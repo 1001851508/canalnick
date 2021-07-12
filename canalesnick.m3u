@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:-1,TELEAMAZONAS HD
 http://54.39.16.47:25461/live/991717315/991717315/21487.m3u8
-#EXTINF:-1,Teleamazonas
-https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
