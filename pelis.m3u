@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 ,TVPREMIUMHD
-http://tvpremiumhd.club/lista-gratuita/210012/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 ,TLX
-http://tvpremiumhd.club/lista-gratuita/210012/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w015627id3435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1 tvg-id="TV Telesur" tvg-logo="https://i.imgur.com/6euqurz.png?1" group-title="CANAIS INTERNACIONAIS", VEN: TV TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/887.png" group-title="Nacional",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
